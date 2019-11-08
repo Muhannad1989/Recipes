@@ -2,7 +2,7 @@
   "name": "project-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Muhannad1989/github.io/Recipes",
+  "homepage": "https://Muhannad1989/github.io/Recipes",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.11.0",
