@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github.io/Recipes/static/css/main.87f03a96.chunk.css",
+    "main.js": "/github.io/Recipes/static/js/main.79662201.chunk.js",
+    "main.js.map": "/github.io/Recipes/static/js/main.79662201.chunk.js.map",
+    "runtime-main.js": "/github.io/Recipes/static/js/runtime-main.08f415d4.js",
+    "runtime-main.js.map": "/github.io/Recipes/static/js/runtime-main.08f415d4.js.map",
+    "static/css/2.510409cd.chunk.css": "/github.io/Recipes/static/css/2.510409cd.chunk.css",
+    "static/js/2.7ebf1ab4.chunk.js": "/github.io/Recipes/static/js/2.7ebf1ab4.chunk.js",
+    "static/js/2.7ebf1ab4.chunk.js.map": "/github.io/Recipes/static/js/2.7ebf1ab4.chunk.js.map",
+    "index.html": "/github.io/Recipes/index.html",
+    "precache-manifest.8b332ecc5b50481532ea59527247ccb7.js": "/github.io/Recipes/precache-manifest.8b332ecc5b50481532ea59527247ccb7.js",
+    "service-worker.js": "/github.io/Recipes/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/github.io/Recipes/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.87f03a96.chunk.css.map": "/github.io/Recipes/static/css/main.87f03a96.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08f415d4.js",
+    "static/css/2.510409cd.chunk.css",
+    "static/js/2.7ebf1ab4.chunk.js",
+    "static/css/main.87f03a96.chunk.css",
+    "static/js/main.79662201.chunk.js"
+  ]
+}
